@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # Profit or Deceit? Identifying Pump and Dump in DeFi via Graph and Contrastive Learning
 
 ## Introduction
@@ -52,9 +50,3 @@ During training, you can specify the following parameters:
 --k_hop           sampling k-hop neighborhood
 ```
 
-=======
-# Profit-or-Deceit-Identifying-Pump-and-Dump-in-DeFi-via-Graph-and-Contrastive-Learning
->>>>>>> 4a9ecd1779671e9288ab54222f8f8561ecdfdb6e
-=======
-# Profit-or-Deceit-Identifying-Pump-and-Dump-in-DeFi-via-Graph-and-Contrastive-Learning
->>>>>>> 4a9ecd1779671e9288ab54222f8f8561ecdfdb6e
