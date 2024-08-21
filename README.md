@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Official code for"Profit or Deceit? Identifying Pump and Dump in DeFi via Graph and Contrastive Learning"
+Official code for "Profit or Deceit? Identifying Pump and Dump in DeFi via Graph and Contrastive Learning".
 For ease of use, we have made some changes to the original implementation in the paper.
 
 ## Running the experiments
