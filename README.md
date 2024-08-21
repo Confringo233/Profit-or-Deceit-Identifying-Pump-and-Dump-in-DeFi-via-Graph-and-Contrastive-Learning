@@ -2,7 +2,8 @@
 
 ## Introduction
 
-The code for the paper "Profit or Deceit? Identifying Pump and Dump in DeFi via Graph and Contrastive Learning" combines graph neural networks with temporal relationships. In our work, we propose a Pump and Dump detection model based on T2BG (Temporal Transaction-based Behavior Graph) and name it PumpPatrol. The core idea is to integrate graph neural networks with transaction time information to effectively capture and predict the evolution of edges in graph data, thereby timely detecting the sudden occurrence of Pump and Dump events in a temporal sequence.
+Official code for"Profit or Deceit? Identifying Pump and Dump in DeFi via Graph and Contrastive Learning"
+For ease of use, we have made some changes to the original implementation in the paper.
 
 ## Running the experiments
 
